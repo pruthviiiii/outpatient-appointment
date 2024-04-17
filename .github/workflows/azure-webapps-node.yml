@@ -1,0 +1,14 @@
+outpatient-appointment-system/
+├── src/
+│   ├── controllers/
+│   │   ├── doctorController.js
+│   │   └── appointmentController.js
+│   ├── models/
+│   │   ├── Doctor.js
+│   │   └── Appointment.js
+│   ├── routes/
+│   │   ├── doctorRoutes.js
+│   │   └── appointmentRoutes.js
+│   └── index.js
+├── README.md
+└── package.json
